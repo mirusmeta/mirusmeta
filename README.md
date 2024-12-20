@@ -1,4 +1,4 @@
-## Hello I am Michail (Mirus)!
+## Hello I am Mirus (Michail) 🤙
 #### 👨‍💻 Software Engineer | 🚀 Driving Innovation in Technology
 #### 🔍 Expertise in: Backend Development, Cloud Solutions, and Scalable Architecture
 #### 🎯 Mission: Writing clean, efficient, and impactful code that solves real-world problems
